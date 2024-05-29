@@ -34,6 +34,7 @@ namespace _30._05._2024_hometask
 
             User user = null;
             Group group = null;
+            Student student1 = null;
 
             while (true) 
             {
